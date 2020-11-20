@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605812539,
+	"version": 1605891683,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,9 @@
 		"images/life-sheet0.png",
 		"images/life-sheet1.png",
 		"images/levelfruit-sheet0.png",
-		"images/levelfruit-sheet1.png"
+		"images/levelfruit-sheet1.png",
+		"images/box-sheet0.png",
+		"fb.js",
+		"init.js"
 	]
 }
