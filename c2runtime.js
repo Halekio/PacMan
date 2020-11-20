@@ -23545,6 +23545,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Tilemap.prototype.exps.TileAt,
 	cr.plugins_.Tilemap.prototype.acts.EraseTile,
-	cr.plugins_.Sprite.prototype.cnds.IsVisible
+	cr.plugins_.Sprite.prototype.cnds.IsVisible,
+	cr.plugins_.Spritefont2.prototype.cnds.CompareText
 ];};
 
