@@ -23228,4 +23228,3 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.IsVisible,
 	cr.plugins_.Spritefont2.prototype.cnds.CompareText
 ];};
-
